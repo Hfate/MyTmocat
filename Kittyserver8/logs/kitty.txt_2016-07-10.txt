@@ -1,0 +1,56 @@
+2016-07-10 16:12:17,459 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-10 16:12:41,952 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:12:42,202 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:12:42,234 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:12:56,806 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:13:12,049 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:15:45,134 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:18:47,672 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:19:02,728 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:29:39,823 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-10 16:29:54,471 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:30:11,072 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:30:31,065 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-10 16:32:44,381 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:33:06,399 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:33:06,399 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:33:06,414 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:33:06,561 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:33:06,572 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:33:35,657 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:33:35,657 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:33:35,673 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:33:35,749 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:33:35,755 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:34:59,993 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:35:00,134 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:35:00,150 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:35:06,579 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:41:27,304 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-10 16:41:47,444 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:41:54,294 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:42:23,533 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-10 16:42:29,788 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:42:44,974 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:51:38,670 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-10 16:51:54,847 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 16:52:04,084 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 17:05:02,013 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-10 17:05:39,411 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 17:05:40,316 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 17:05:40,316 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 17:05:46,357 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 17:05:58,109 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 17:16:47,420 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-10 17:16:53,832 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 17:19:29,945 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-10 17:19:36,607 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 17:19:43,597 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 22:43:28,717 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-10 22:44:39,485 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 22:45:17,139 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 22:45:49,372 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 22:46:18,765 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 22:46:40,323 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 22:47:15,635 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-10 22:47:44,348 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 

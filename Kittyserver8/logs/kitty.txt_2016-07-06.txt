@@ -1,0 +1,3 @@
+2016-07-06 23:56:28,572 main DEBUG [com.yc.http.server.YcConstants] KittyServer is starting and listening8083
+2016-07-06 23:58:40,814 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
+2016-07-06 23:59:44,572 main DEBUG [com.yc.http.server.YcConstants] a client /0:0:0:0:0:0:0:1is contenting 
